@@ -1,6 +1,6 @@
-# Refund - Solicitação de Reembolso
+# Reembolso - Solicitação de Reembolso
 
-O **Refund** é uma aplicação web simples para solicitar reembolso de despesas. Os usuários podem registrar suas despesas, categorizá-las e visualizar um resumo das solicitações.
+O **Reembolso** é uma aplicação web simples para solicitar reembolso de despesas. Os usuários podem registrar suas despesas, categorizá-las e visualizar um resumo das solicitações.
 
 ## Funcionalidades
 
