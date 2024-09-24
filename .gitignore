@@ -1,0 +1,33 @@
+# Dependências de Node.js
+node_modules/
+
+# Diretórios de build
+dist/
+build/
+
+# Arquivos de log
+*.log
+
+# Arquivos de configuração do sistema
+.DS_Store
+Thumbs.db
+
+# Configurações do editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos temporários do sistema
+*.tmp
+*.temp
+
+# Arquivos de cache
+.cache/
+
+# Arquivos de backup
+*.bak
+*.swp
+
+# Outros
+*.env
